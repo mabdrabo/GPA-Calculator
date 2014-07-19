@@ -100,7 +100,7 @@ class area extends JPanel implements ActionListener {
 		name.addMouseListener(new MouseAdapter() {
 			public void mouseClicked(MouseEvent e) {
 				// OpenBrowser.openURL("http://goo.gl/2zKc5");
-				OpenBrowser.openURL("gplus.to/mahmoudabdrabo");
+				OpenBrowser.openURL("http://eg.linkedin.com/in/mahmoudabdrabo/");
 			}
 
 			public void mouseEntered(MouseEvent e) {
